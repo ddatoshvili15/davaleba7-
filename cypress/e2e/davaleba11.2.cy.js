@@ -18,7 +18,7 @@ describe('davaleba11.2', () => {
         cy.get('.alert-success').should('contain', 'Your address has been successfully updated')
     })
     it('change pasword', () => {
-        cy.get('https://automationteststore.com/index.php?rt=account/password').click()
+        cy.get("https://automationteststore.com/index.php?rt=account/password").click()
         cy.get('#PasswordFrm_current_password').type('Dikuna1998!')
         cy.get('#PasswordFrm_password').type('cudadvarukve123')
         cy.get('#PasswordFrm_confirm').type('cudadvarukve123')
