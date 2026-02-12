@@ -1,0 +1,24 @@
+{
+  "name": "davaleba7-",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ddatoshvili15/davaleba7-#readme",
+  "bugs": {
+    "url": "https://github.com/ddatoshvili15/davaleba7-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddatoshvili15/davaleba7-.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "davaleba10.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "-": "^0.0.1",
+    "cypress": "^15.10.0"
+  }
+}
